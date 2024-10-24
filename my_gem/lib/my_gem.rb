@@ -8,6 +8,4 @@ module MyGem
       array.select { |e| array.count(e) > 1 }.uniq
     end
   end
-  
-  
 end
